@@ -1,5 +1,12 @@
 <?php
-
+/*
+*
+* Date 2016-12-09  帮助
+*
+*
+*  Author gugu
+*
+*/
 namespace Home\Controller;
 use Think\Controller;
 class HelpController extends Controller{

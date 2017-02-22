@@ -1,8 +1,8 @@
 <?php 
 	/*
-	*data 20150718   我的收藏
+	*data 2016-12-09  我的收藏
 	*
-	*Author ：zhanyanwu
+	*Author ：gugu
 	*
 	*/
 

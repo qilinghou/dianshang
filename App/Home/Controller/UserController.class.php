@@ -1,9 +1,9 @@
 <?php
 /*
-*	Date 20150715   用户中心
+*	Date 2016-12-09   用户中心
 *
 *
-*	Author  zhangyanwu 
+*	Author  gugu
 *
 */
  namespace  Home\Controller;

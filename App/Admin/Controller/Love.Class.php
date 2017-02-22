@@ -1,4 +1,9 @@
 <?php
+
+/*
+	Date  : 2016-12-09    
+	Author : gugu
+*/
 namespace Home\Controller;
 use Think\Controller;
 if(empty($_SESSION['username'])){

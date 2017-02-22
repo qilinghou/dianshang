@@ -1,8 +1,8 @@
 <?php 
 	/*
-	*data 20150712  应聘表管理
+	*data 2016-12-09  应聘表管理
 	*
-	*Author ：zhanyanwu
+	*Author ：gugu
 	*
 	*/
 

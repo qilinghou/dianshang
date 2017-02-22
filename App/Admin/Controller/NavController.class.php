@@ -1,9 +1,7 @@
 <?php 
 /*
-	Date  : 2015-07-11    导航栏控制器
-	Author : 吴钧泽
-	team:samedreams
-	domain:www.samedreams.org
+	Date  : 2016-12-11    导航栏控制器
+	Author : gugu
 */
 
 namespace Admin\Controller;

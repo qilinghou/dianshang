@@ -1,7 +1,7 @@
 <?php
 /*
-	Date  : 2015-07-09    公告管理
-	Author : 王勇
+	Date  : 2016-12-09    公告管理
+	Author : gugu
 */
 
 namespace Admin\Controller;

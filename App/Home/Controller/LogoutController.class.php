@@ -1,15 +1,14 @@
 <?php
-/**
- * @Author: IT - Pony
- * @Date: 2015-07-15 03:35:55
- * @Email: Admin@Itpony.com
- * @FileName: LogoutController.class.php
- * @FilePath: D:\wamp\www\tongmeng\App\Home\Controller\LogoutController.class.php
- * @Last Modified by: IT - Pony
- * @Last Modified time: 2015-07-20 11:31:17
- */
+
 
 /**
+*
+* Date 2016-12-09  用户登出
+*
+*
+*  Author gugu
+*
+*/
  * 用户退出
  */
  namespace Home\Controller;

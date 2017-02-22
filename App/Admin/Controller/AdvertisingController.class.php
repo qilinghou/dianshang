@@ -1,8 +1,7 @@
 <?php
 /*
-	Date  : 2015-07-09    广告管理
-	Author : wangyong
-	team: samedreams
+	Date  : 2016-12-09    广告管理
+	Author : gugu
 
 */
 

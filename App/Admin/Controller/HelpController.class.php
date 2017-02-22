@@ -1,8 +1,8 @@
 <?php 
 	/*
-	*	Date 20150711  HelpController
+	*	Date 2016-12-11  HelpController
 	*
-	*	author zhangyanwu
+	*	author gugu
 	*
 	*
 	*/

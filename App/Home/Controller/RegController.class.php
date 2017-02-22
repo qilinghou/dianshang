@@ -1,13 +1,12 @@
 <?php
-/**
- * @Author: IT - Pony
- * @Date: 2015-07-11 21:11:01
- * @Email: Admin@Itpony.com
- * @FileName: RegController.class.php
- * @FilePath: D:\wamp\www\tongmeng\App\Home\Controller\RegController.class.php
- * @Last Modified by: IT - Pony
- * @Last Modified time: 2015-07-20 23:54:58
- */
+/*
+*
+* Date 2016-12-09  
+*
+*
+*  Author gugu
+*
+*/
 namespace Home\Controller;
 use Think\Controller;
 

@@ -1,13 +1,12 @@
 <?php
-/**
- * @Author: IT - Pony
- * @Date: 2015-07-20 19:27:27
- * @Email:Admin@Itpony.Com
- * @FileName: OrderController.class.php
- * @FilePath: D:\wamp\www\tongmeng\App\Home\Controller\OrderController.class.php
- * @Last Modified by: IT - Pony
- * @Last Modified time: 2015-07-22 13:44:27
- */
+/*
+*
+* Date 2016-12-09  订单
+*
+*
+*  Author gugu
+*
+*/
 
 namespace Home\Controller;
 use Think\Controller;

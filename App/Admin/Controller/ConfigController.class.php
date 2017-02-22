@@ -1,9 +1,7 @@
 <?php
 /*
-	Date  : 2015-07-11    网站配置文件控制器
-	Author : wujunze
-	team:samedreams
-	domain:www.samedreams.org
+	Date  : 2016-12-09   网站配置文件控制器
+	Author : gugu
 */
 namespace Admin\Controller;
 use Think\Controller;

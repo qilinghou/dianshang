@@ -1,4 +1,10 @@
 <?php
+
+/*
+    Date  : 2016-12-09    入口
+    Author : gugu
+
+*/
 namespace Admin\Controller;
 use Think\Controller;
 

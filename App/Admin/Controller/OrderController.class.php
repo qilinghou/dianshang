@@ -1,12 +1,8 @@
 <?php
-   /*
-   *
-   *Date 20150712  订单管理
-   *
-   *
-   *Author  zhangyanwu 
-   *
-   */
+/*
+   Date  : 2016-12-09    订单管理
+   Author : gugu
+*/
 
    namespace Admin\Controller;
    use  Think\Controller;

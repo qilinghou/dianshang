@@ -1,13 +1,12 @@
 <?php
-/**
- * @Author: IT - Pony
- * @Date: 2015-07-11 20:58:01
- * @Email: Admin@Itpony.com
- * @FileName: InstallController.class.php
- * @FilePath: D:\wamp\www\tongmeng\App\Home\Controller\InstallController.class.php
- * @Last Modified by: IT - Pony
- * @Last Modified time: 2015-07-15 11:44:20
- */
+/*
+*
+* Date 2016-12-09  网站安装
+*
+*
+*  Author gugu
+*
+*/
 
 namespace Home\Controller;
 use Think\Controller;

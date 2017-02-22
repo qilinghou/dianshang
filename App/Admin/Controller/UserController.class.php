@@ -1,10 +1,8 @@
 <?php 
 	/*
-	*data 20150709   用户管理
-	*
-	*Author ：zhanyanwu
-	*
-	*/
+	Date  : 2016-12-09    用户管理
+	Author : gugu
+*/
 
 	namespace Admin\Controller;
 	use Think\Controller;

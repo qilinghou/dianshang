@@ -1,10 +1,10 @@
 <?php
 	/*
 	*
-	*	Date 20150720  招聘应聘
+	*	Date 2016-12-09 招聘应聘
 	*
 	*
-	*	Author zhangyanwu
+	*	Author gugu
 	*
 	*/
 

@@ -1,13 +1,8 @@
 <?php
-/**
- * @Author: IT - Pony
- * @Date: 2015-07-20 00:45:36
- * @Email:Admin@Itpony.Com
- * @FileName: MailController.class.php
- * @FilePath: D:\wamp\www\tongmeng\App\Admin\Controller\MailController.class.php
- * @Last Modified by: IT - Pony
- * @Last Modified time: 2015-07-20 03:12:53
- */
+/*
+    Date  : 2016-12-09    邮件管理
+    Author : gugu
+*/
 
 namespace Admin\Controller;
 use Think\Controller;

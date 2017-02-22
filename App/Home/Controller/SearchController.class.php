@@ -1,9 +1,7 @@
 <?php
 /*
-	Date  : 2015-07-21    管理员列表
-	Author : wujunze
-	team:samedreams
-	domain:www.samedreams.org
+	Date  : 2016-12-09  管理员列表
+	Author : gugu
 */
 namespace Home\Controller;
 use Think\Controller;

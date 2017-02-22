@@ -2,9 +2,8 @@
 
 
 /*
-	Date  : 2015-07-09    商品管理
-	Author : wangyong
-	team: samedreams
+	Date  : 2016-12-09    商品管理
+	Author : gugu
 
 */
 namespace Admin\Controller;

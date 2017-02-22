@@ -1,13 +1,12 @@
 <?php
-/**
- * @Author: IT - Pony
- * @Date: 2015-07-11 20:58:01
- * @Email: Admin@Itpony.com
- * @FileName: LoginController.class.php
- * @FilePath: D:\wamp\www\tongmeng\App\Home\Controller\LoginController.class.php
- * @Last Modified by: IT - Pony
- * @Last Modified time: 2015-07-22 15:28:51
- */
+/*
+*
+* Date 2016-12-09  登录
+*
+*
+*  Author gugu
+*
+*/
  
 namespace Home\Controller;
 use Think\Controller;

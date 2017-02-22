@@ -1,8 +1,8 @@
 <?php 
 	/*
-	*  Data 20150718   充值历史
+	*  Data 2016-12-09   充值历史
 	*
-	*  Author ：zhanyanwu
+	*  Author ：gugu
 	*
 	*/
 

@@ -1,8 +1,8 @@
 <?php 
 	/*
-	*  Data 20150719   浏览历史
+	*  Data 2016-12-09  浏览历史
 	*
-	*  Author ：zhanyanwu
+	*  Author ：gugu
 	*
 	*/
 

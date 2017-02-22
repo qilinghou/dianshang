@@ -1,7 +1,7 @@
 <?php
 /*
-author：wangyong	
-2015-07-17
+author：gugu	
+2016-12-09
 商品展示页面
 */
 
